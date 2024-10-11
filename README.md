@@ -1,2 +1,2 @@
 # Noun
-Build my own blockchain based on TOR protocol for Lambda-section
+Building my own blockchain based on TOR protocol.
